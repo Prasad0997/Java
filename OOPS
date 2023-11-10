@@ -1,0 +1,11 @@
+Java is a high-level programming language that was developed by James Gosling in the year 1982. It is based on the principles of object-oriented programming and can be used to develop large-scale applications. 
+To create a program in Java, we need source code, compiler and interpreter. a executes the one statement after other in the order they were written. 
+For Programming in Java, we need to know about classes, objects, variables, methods, primitive and non primitive types etc.
+Java is a platform independent language.
+Java is an Object Oriented language. Object-Oriented Programming (OOP) is a programming paradigm that organizes software design around objects, which can contain data and code to manipulate that data. 
+OOPS Concepts:
+Classes & Objects:
+A class is a blueprint or template that defines the properties (attributes) and behaviors (methods) of objects.
+An object is an instance of a class. It represents a specific entity that can be created, manipulated, and used in the program
+Inheritance
+Inheritance is a mechanism that enables a class to inherit properties and methods from another class.
